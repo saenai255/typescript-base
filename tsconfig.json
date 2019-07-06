@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "experimentalDecorators": true,
+    "skipLibCheck": true,
     "emitDecoratorMetadata": true,
     "target": "esnext",
     "outDir": "build",
